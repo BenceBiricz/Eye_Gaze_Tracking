@@ -46,6 +46,7 @@ The software is able to determine the range of pupil movement using a measuremen
 - Determining the maximum and minimum values of the bounding boxes
 
 ## Software GUI:
+| Main | Real time evaluation | Settings |
 | ![Picture3](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/fcea072d-c248-46b1-a52c-b25b07d3fc8a) | ![Picture5](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/f3b32e90-8acf-4819-ba1e-e634e0b47011) | ![Picture4](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/e667824f-8d0c-4c30-9ced-f32d7fb6b31b) |
 | ------------- |:-------------:| -----:|
 
