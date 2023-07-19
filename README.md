@@ -37,6 +37,11 @@ Contents:
   - left
   - righ
   - bottom
- ![Picture2](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/fd19d680-52ce-46d8-a071-acad82a04b44)
 
+![Picture2](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/fd79f4cf-6992-497b-ba8b-9fb8bdba40d6)
+
+- centerX,centerY = center of the boundingBox
+
+The software is able to determine the range of pupil movement using a measurement:
+- Determining the maximum and minimum values of the bounding boxes
     
