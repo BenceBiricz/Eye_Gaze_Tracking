@@ -47,8 +47,9 @@ The software is able to determine the range of pupil movement using a measuremen
 
 ## Software GUI:
 <p float="left">
-  <img src="[https://bobbyhadz.com/images/blog/python-print-tab/thumbnail.webp](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/fcea072d-c248-46b1-a52c-b25b07d3fc8a)" width="33%" />
+  <img src="![Picture3](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/fcea072d-c248-46b1-a52c-b25b07d3fc8a)" width="33%" />
+</p>
+
 ![Picture3](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/fcea072d-c248-46b1-a52c-b25b07d3fc8a)
 ![Picture5](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/0afe5247-5741-4b63-9137-c05782264198)
 ![Picture4](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/e667824f-8d0c-4c30-9ced-f32d7fb6b31b)
-</p>
