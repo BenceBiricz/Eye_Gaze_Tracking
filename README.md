@@ -63,5 +63,5 @@ The software is able to determine the range of pupil movement using a measuremen
   - Establishes a WiFi hotspot
   - Streams the scanned video image to the connected devices
 
-Weareble EyeTrackingGlasses Model:
+Wearable EyeTrackingGlasses Model:
 ![glasses](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/8dc56de5-000a-4b0b-849f-610eb707d660)
