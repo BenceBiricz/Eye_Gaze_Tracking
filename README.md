@@ -50,4 +50,18 @@ The software is able to determine the range of pupil movement using a measuremen
 | --- | ---| --- |
 | ![Picture3](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/fcea072d-c248-46b1-a52c-b25b07d3fc8a) | ![Picture5](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/f3b32e90-8acf-4819-ba1e-e634e0b47011) | ![Picture4](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/e667824f-8d0c-4c30-9ced-f32d7fb6b31b) |
 
+# Hardware
+- Video data collection
+- Scanning the camera image
+- Meta data collection:
+  - IMU data collection
+  - Acceleration data
+  - Magnetic field data
+  - Direction data
+  - Timestamp data
+-Communication
+  - Establishes a WiFi hotspot
+  - Streams the scanned video image to the connected devices
 
+Weareble EyeTrackingGlasses Model:
+![glasses](https://github.com/BenceBiricz/Eye_Gaze_Tracking/assets/71565433/8dc56de5-000a-4b0b-849f-610eb707d660)
